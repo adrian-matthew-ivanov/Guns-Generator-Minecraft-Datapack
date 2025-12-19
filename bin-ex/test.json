@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "e": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+            "item": {
+            "components": {
+                "minecraft:custom_data": {
+                    "id":"test"
+                }
+            }
+            }
+        }
+        }
+    },
+    "rewards": {
+        "function": "code:test/shoot"
+    }
+}

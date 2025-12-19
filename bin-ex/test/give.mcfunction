@@ -1,0 +1,1 @@
+give @p stick[custom_data={"id":"test"},item_name={"bold":true,"color":"#3DFF84","text":"Test Gun"},food={nutrition:1,saturation:1,can_always_eat:true},consumable={consume_seconds:99999,animation:"spear",has_consume_particles:false}] 1
